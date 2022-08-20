@@ -1,5 +1,5 @@
 
-# Project-001 :Survey Form 
+# Project :Netflix Survey Form 
 
 ## Description
 Project aims to create survey form within html and css.
@@ -15,18 +15,17 @@ Project aims to create survey form within html and css.
 ## Project Skeleton 
 
 ```
-001-survey-form (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----solution
+survey-form (folder)
         |----index.html  
         |----style.css   
         |----result.html 
 ```
 
 ## Expected Outcome
+<p align="center">
+<a href="https://bavi-boop.github.io/clipboard-landing-page-website/"><img src="Project_001_.png" alt="screenshot" ></a>
+</p>
 
-![Project 001 Snapshot](Project_001_.png)
 
 ## Objective
 
