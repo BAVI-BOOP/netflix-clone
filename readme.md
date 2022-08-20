@@ -20,10 +20,13 @@ survey-form (folder)
         |----style.css   
         |----result.html 
 ```
+## Links
+
+- [live site URL here: ([Live Website)](https://bavi-boop.github.io/netflix-clone/)
 
 ## Expected Outcome
 <p align="center">
-<a href="https://bavi-boop.github.io/clipboard-landing-page-website/"><img src="Project_001_.png" alt="screenshot" ></a>
+<a href="https://bavi-boop.github.io/netflix-clone/"><img src="Project_001_.png" alt="screenshot" ></a>
 </p>
 
 
