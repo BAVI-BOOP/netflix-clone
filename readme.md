@@ -50,9 +50,7 @@ Functionally create a Survey Form as in the image above
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
+## Steps to Project
 
 - Step 2: Create project folder for local public repo on your pc
 
@@ -81,17 +79,12 @@ Functionally create a Survey Form as in the image above
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
 	
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Deploy your application on Github template to showcase your app within your team.
+-
 
 ## Notes
 
 - You can use HTML,and CSS to complete this project.
 
-## Resources
-
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
