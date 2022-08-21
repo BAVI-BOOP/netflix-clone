@@ -16,9 +16,10 @@ body {
 }
 
 #container {
-  max-width: 1240px;
+  max-width: 77.5rem;
   background-color: rgba(0, 0, 0, 0.3);
-  margin-top: 30px;
+  margin-top: 2rem;
+  margin: auto;
 }
 
 .title {
@@ -45,10 +46,10 @@ textarea {
 }
 
 #survey-form-container {
-  width: 500px;
+  width: 31rem;
   background-color: rgba(0, 0, 0, 0.8);
   margin: auto;
-  padding: 30px 40px;
+  padding: 2rem 2.5rem;
 }
 
 #name,
@@ -57,12 +58,12 @@ textarea {
 #dropdown,
 #feedback {
   width: 100%;
-  padding: 12px 10px;
-  margin-top: 10px;
+  padding: 0.7rem 0.6rem;
+  margin-top: 0.6rem;
 }
 
 .input-box {
-    margin-top: 10px;
+    margin-top: 0.6rem;
 }
 
 #form-button {
@@ -70,13 +71,31 @@ textarea {
     width: 10rem;
     background-color: #ff0000;
     color: #fff;
-    border-radius: 50px;
+    border-radius: 2rem;
     border: none;
     cursor: pointer;
 }
 
 .form-submit {
-    width: 160px;
+    width: 10rem;
     margin: auto;
     margin-top: 1rem;
+}
+
+@media screen and (max-width:1000px){
+  html {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width:800px){
+  html {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width:600px){
+  html {
+    font-size: 11px;
+  }
 }
