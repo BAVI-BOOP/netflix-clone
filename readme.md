@@ -22,7 +22,7 @@
 
 
 ## The challenge
-Project aims to create survey form within html and css.
+Project aims to create survey form within html and css that looks identical to Netflix page.
 
 ## Problem Statement
 
