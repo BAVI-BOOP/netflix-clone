@@ -12,7 +12,7 @@
 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Project Skeleton](#project-sekeleton)
+  - [Project Skeleton](#project-skeleton)
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
