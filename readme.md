@@ -11,6 +11,7 @@
 ## Table of contents
 
   - [The challenge](#the-challenge)
+  - [Project Design](#project-design)
   - [Screenshot](#screenshot)
   - [Project Skeleton](#project-skeleton)
   - [Links](#links)
