@@ -15,6 +15,7 @@
   - [Project Skeleton](#project-skeleton)
   - [Links](#links)
   - [Built with](#built-with)
+  - [Steps To Project](#steps-to-project)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -57,12 +58,7 @@ survey-form (folder)
 - Mobile-first workflow
 
 - [Styled Components](https://styled-components.com/) - For styles
-
-
-
-
-### At the end of the project, following topics are to be covered;
-
+	
 - HTML Forms-Input Types 
 
 - HTML Form Elements
@@ -73,12 +69,6 @@ survey-form (folder)
 
 - CSS Properties for Texts-Font Families-Links
 
-
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Project
 
