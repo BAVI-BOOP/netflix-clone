@@ -1,7 +1,27 @@
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="hello.png" alt="screenshot"></a>
+</p>
+
+
+
 
 # Project :Netflix Survey Form 
 
-## Description
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Project Skeleton](#project-sekeleton)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+
+
+## The challenge
 Project aims to create survey form within html and css.
 
 ## Problem Statement
@@ -24,15 +44,23 @@ survey-form (folder)
 
 - [live site URL here: ([Live Website)](https://bavi-boop.github.io/netflix-clone/)
 
-## Expected Outcome
+## Screenshot
 <p align="center">
 <a href="https://bavi-boop.github.io/netflix-clone/"><img src="Project_001_.png" alt="screenshot" ></a>
 </p>
 
+### Built with
 
-## Objective
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 
-Functionally create a Survey Form as in the image above
+- [Styled Components](https://styled-components.com/) - For styles
+
+
+
 
 ### At the end of the project, following topics are to be covered;
 
@@ -88,6 +116,14 @@ Functionally create a Survey Form as in the image above
 
 - You can use HTML,and CSS to complete this project.
 
+### Useful resources
 
+- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
+
+
+## Author
+
+- Author - [Ahmet]
 
 <center> &#8987; Happy Coding  &#9997; </center>
