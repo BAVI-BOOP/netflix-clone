@@ -36,7 +36,7 @@ Project aims to create survey form within html and css that looks identical to N
 ## Project Skeleton 
 
 ```
-survey-form (folder)
+netflix-clone (folder)
         |----index.html  
         |----style.css   
         |----result.html 
